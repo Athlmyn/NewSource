@@ -9,17 +9,6 @@
 - **Portfolio Management:** Allows the management of multiple assets, capital allocation, and portfolio rebalancing, offering a holistic view of portfolio performance over time.
 
 
-# Stock Analysis and Backtesting Tool
-
-## Features
-
-- **Variety of Trading Strategies:** Supports a range of trading strategies including Moving Average Crossover, RSI Overbought/Oversold, and allows for the easy integration of custom strategies.
-- **Interactive Visualization:** Offers interactive and intuitive visualizations of stock data and trading signals, aiding in better analysis and decision-making.
-- **Backtesting Engine:** Features a powerful backtesting engine that simulates trading based on strategy signals, providing insights into potential performance and profitability.
-- **Real-Time Data Analysis:** Integrates real-time data, enabling users to analyze and test trading strategies with the most current market information.
-- **Portfolio Management:** Allows the management of multiple assets, capital allocation, and portfolio rebalancing, offering a holistic view of portfolio performance over time.
-
-
 ## Usage
 
 ### Running the Tool
